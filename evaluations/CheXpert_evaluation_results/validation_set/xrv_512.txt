@@ -1,0 +1,234 @@
+patient64541/study1/view1_frontal.jpg,No finding
+patient64542/study1/view1_frontal.jpg,No finding
+patient64542/study1/view2_lateral.jpg,No finding
+patient64543/study1/view1_frontal.jpg,No finding
+patient64544/study1/view1_frontal.jpg,No finding
+patient64545/study1/view1_frontal.jpg,Lung Opacity
+patient64546/study1/view1_frontal.jpg,No finding
+patient64547/study1/view1_frontal.jpg,No finding
+patient64547/study1/view2_frontal.jpg,No finding
+patient64547/study1/view3_lateral.jpg,No finding
+patient64548/study1/view1_frontal.jpg,No finding
+patient64549/study1/view1_frontal.jpg,No finding
+patient64550/study1/view1_frontal.jpg,No finding
+patient64551/study1/view1_frontal.jpg,No finding
+patient64551/study1/view2_lateral.jpg,No finding
+patient64552/study1/view1_frontal.jpg,No finding
+patient64553/study1/view1_frontal.jpg,Fracture
+patient64554/study1/view1_frontal.jpg,No finding
+patient64555/study1/view1_frontal.jpg,Lung Opacity
+patient64556/study1/view1_frontal.jpg,No finding
+patient64556/study1/view2_lateral.jpg,Lung Opacity
+patient64557/study1/view1_frontal.jpg,Fracture
+patient64558/study1/view1_frontal.jpg,No finding
+patient64558/study1/view2_lateral.jpg,No finding
+patient64559/study1/view1_frontal.jpg,Fracture
+patient64559/study1/view2_lateral.jpg,No finding
+patient64560/study1/view1_frontal.jpg,No finding
+patient64560/study1/view2_lateral.jpg,No finding
+patient64561/study1/view1_frontal.jpg,Fracture
+patient64562/study1/view1_frontal.jpg,No finding
+patient64563/study1/view1_frontal.jpg,No finding
+patient64564/study1/view1_frontal.jpg,No finding
+patient64565/study1/view1_frontal.jpg,Fracture
+patient64566/study1/view1_frontal.jpg,No finding
+patient64566/study1/view2_lateral.jpg,No finding
+patient64567/study1/view1_frontal.jpg,No finding
+patient64567/study1/view2_lateral.jpg,No finding
+patient64568/study1/view1_frontal.jpg,No finding
+patient64569/study1/view1_frontal.jpg,Fracture
+patient64570/study1/view1_frontal.jpg,No finding
+patient64570/study1/view2_lateral.jpg,No finding
+patient64571/study1/view1_frontal.jpg,No finding
+patient64572/study1/view1_frontal.jpg,No finding
+patient64573/study1/view1_frontal.jpg,No finding
+patient64574/study1/view1_frontal.jpg,No finding
+patient64575/study1/view1_frontal.jpg,No finding
+patient64575/study1/view2_lateral.jpg,No finding
+patient64576/study1/view1_frontal.jpg,No finding
+patient64577/study1/view1_frontal.jpg,No finding
+patient64578/study1/view1_frontal.jpg,No finding
+patient64579/study1/view1_frontal.jpg,No finding
+patient64580/study1/view1_frontal.jpg,Effusion
+patient64581/study1/view1_frontal.jpg,No finding
+patient64581/study1/view3_lateral.jpg,No finding
+patient64581/study1/view2_frontal.jpg,No finding
+patient64582/study1/view1_frontal.jpg,No finding
+patient64583/study1/view1_frontal.jpg,No finding
+patient64584/study1/view1_frontal.jpg,No finding
+patient64584/study1/view2_lateral.jpg,No finding
+patient64585/study1/view1_frontal.jpg,No finding
+patient64586/study1/view1_frontal.jpg,No finding
+patient64587/study1/view1_frontal.jpg,No finding
+patient64588/study1/view1_frontal.jpg,No finding
+patient64588/study1/view2_lateral.jpg,No finding
+patient64589/study1/view2_lateral.jpg,No finding
+patient64589/study1/view1_frontal.jpg,No finding
+patient64590/study1/view1_frontal.jpg,No finding
+patient64590/study1/view2_lateral.jpg,No finding
+patient64591/study1/view1_frontal.jpg,Fracture
+patient64592/study1/view1_frontal.jpg,No finding
+patient64593/study1/view1_frontal.jpg,No finding
+patient64594/study1/view1_frontal.jpg,No finding
+patient64594/study1/view2_lateral.jpg,No finding
+patient64595/study1/view1_frontal.jpg,No finding
+patient64595/study1/view2_lateral.jpg,No finding
+patient64596/study1/view1_frontal.jpg,Lung Opacity
+patient64597/study1/view1_frontal.jpg,No finding
+patient64597/study1/view2_lateral.jpg,No finding
+patient64598/study1/view1_frontal.jpg,Fracture
+patient64599/study1/view1_frontal.jpg,No finding
+patient64599/study1/view2_lateral.jpg,No finding
+patient64600/study1/view1_frontal.jpg,No finding
+patient64600/study1/view2_lateral.jpg,No finding
+patient64601/study1/view1_frontal.jpg,No finding
+patient64602/study1/view1_frontal.jpg,No finding
+patient64603/study1/view1_frontal.jpg,Lung Opacity
+patient64604/study1/view1_frontal.jpg,No finding
+patient64605/study1/view1_frontal.jpg,No finding
+patient64606/study1/view1_frontal.jpg,No finding
+patient64606/study1/view2_lateral.jpg,No finding
+patient64607/study1/view1_frontal.jpg,No finding
+patient64608/study1/view1_frontal.jpg,No finding
+patient64608/study1/view2_lateral.jpg,No finding
+patient64609/study1/view1_frontal.jpg,No finding
+patient64610/study1/view1_frontal.jpg,No finding
+patient64611/study1/view1_frontal.jpg,No finding
+patient64612/study1/view1_frontal.jpg,No finding
+patient64613/study1/view1_frontal.jpg,No finding
+patient64613/study1/view2_lateral.jpg,No finding
+patient64614/study1/view1_frontal.jpg,Fracture
+patient64615/study1/view1_frontal.jpg,No finding
+patient64615/study1/view2_lateral.jpg,No finding
+patient64616/study1/view1_frontal.jpg,No finding
+patient64616/study1/view2_lateral.jpg,Lung Opacity
+patient64616/study1/view3_lateral.jpg,Lung Opacity
+patient64617/study1/view1_frontal.jpg,No finding
+patient64618/study1/view1_frontal.jpg,No finding
+patient64618/study1/view2_lateral.jpg,No finding
+patient64619/study1/view1_frontal.jpg,No finding
+patient64620/study1/view1_frontal.jpg,No finding
+patient64621/study1/view1_frontal.jpg,Fracture
+patient64622/study1/view1_frontal.jpg,No finding
+patient64623/study1/view1_frontal.jpg,No finding
+patient64624/study1/view1_frontal.jpg,No finding
+patient64625/study1/view1_frontal.jpg,No finding
+patient64625/study1/view2_lateral.jpg,No finding
+patient64626/study1/view1_frontal.jpg,No finding
+patient64627/study1/view1_frontal.jpg,Fracture
+patient64628/study1/view1_frontal.jpg,Fracture
+patient64629/study1/view1_frontal.jpg,No finding
+patient64630/study1/view1_frontal.jpg,No finding
+patient64631/study1/view1_frontal.jpg,No finding
+patient64632/study1/view1_frontal.jpg,No finding
+patient64633/study1/view1_frontal.jpg,No finding
+patient64634/study1/view1_frontal.jpg,No finding
+patient64635/study1/view1_frontal.jpg,No finding
+patient64636/study1/view1_frontal.jpg,Fracture
+patient64637/study1/view1_frontal.jpg,No finding
+patient64638/study1/view1_frontal.jpg,No finding
+patient64639/study1/view1_frontal.jpg,No finding
+patient64640/study1/view2_lateral.jpg,Lung Opacity
+patient64640/study1/view1_frontal.jpg,Lung Opacity
+patient64641/study1/view1_frontal.jpg,No finding
+patient64642/study1/view1_frontal.jpg,No finding
+patient64643/study1/view1_frontal.jpg,No finding
+patient64644/study1/view1_frontal.jpg,No finding
+patient64645/study1/view1_frontal.jpg,No finding
+patient64646/study1/view1_frontal.jpg,No finding
+patient64647/study1/view1_frontal.jpg,No finding
+patient64648/study1/view1_frontal.jpg,No finding
+patient64649/study1/view1_frontal.jpg,No finding
+patient64650/study1/view1_frontal.jpg,No finding
+patient64651/study1/view1_frontal.jpg,No finding
+patient64652/study1/view1_frontal.jpg,No finding
+patient64653/study1/view1_frontal.jpg,No finding
+patient64654/study1/view1_frontal.jpg,No finding
+patient64655/study1/view1_frontal.jpg,No finding
+patient64656/study1/view1_frontal.jpg,No finding
+patient64657/study1/view1_frontal.jpg,No finding
+patient64658/study1/view1_frontal.jpg,No finding
+patient64659/study1/view1_frontal.jpg,No finding
+patient64660/study1/view1_frontal.jpg,No finding
+patient64661/study1/view1_frontal.jpg,No finding
+patient64662/study1/view1_frontal.jpg,No finding
+patient64663/study1/view1_frontal.jpg,No finding
+patient64664/study1/view1_frontal.jpg,No finding
+patient64665/study1/view1_frontal.jpg,No finding
+patient64666/study1/view1_frontal.jpg,No finding
+patient64667/study1/view1_frontal.jpg,No finding
+patient64668/study1/view1_frontal.jpg,No finding
+patient64669/study1/view1_frontal.jpg,No finding
+patient64670/study1/view1_frontal.jpg,No finding
+patient64671/study1/view1_frontal.jpg,Fracture
+patient64672/study1/view1_frontal.jpg,No finding
+patient64673/study1/view1_frontal.jpg,Fracture
+patient64674/study1/view1_frontal.jpg,No finding
+patient64675/study1/view1_frontal.jpg,Consolidation
+patient64676/study1/view1_frontal.jpg,No finding
+patient64676/study1/view2_lateral.jpg,No finding
+patient64677/study1/view1_frontal.jpg,No finding
+patient64678/study1/view1_frontal.jpg,No finding
+patient64679/study1/view1_frontal.jpg,Lung Opacity
+patient64680/study1/view1_frontal.jpg,No finding
+patient64681/study1/view1_frontal.jpg,No finding
+patient64682/study1/view1_frontal.jpg,No finding
+patient64683/study1/view1_frontal.jpg,No finding
+patient64684/study1/view1_frontal.jpg,No finding
+patient64685/study1/view1_frontal.jpg,No finding
+patient64686/study1/view1_frontal.jpg,Fracture
+patient64687/study1/view1_frontal.jpg,No finding
+patient64688/study1/view1_frontal.jpg,Effusion,Lung Opacity
+patient64689/study1/view1_frontal.jpg,Consolidation
+patient64690/study1/view1_frontal.jpg,No finding
+patient64691/study1/view1_frontal.jpg,No finding
+patient64692/study1/view1_frontal.jpg,Consolidation,Effusion,Pneumonia,Lung Opacity
+patient64693/study1/view1_frontal.jpg,No finding
+patient64694/study1/view1_frontal.jpg,No finding
+patient64695/study1/view1_frontal.jpg,No finding
+patient64696/study1/view1_frontal.jpg,No finding
+patient64697/study1/view1_frontal.jpg,No finding
+patient64698/study1/view1_frontal.jpg,No finding
+patient64699/study1/view1_frontal.jpg,No finding
+patient64700/study1/view1_frontal.jpg,No finding
+patient64701/study1/view1_frontal.jpg,No finding
+patient64702/study1/view1_frontal.jpg,No finding
+patient64703/study1/view1_frontal.jpg,No finding
+patient64704/study1/view1_frontal.jpg,Effusion,Lung Opacity
+patient64705/study1/view1_frontal.jpg,No finding
+patient64705/study1/view2_lateral.jpg,Lung Opacity
+patient64706/study1/view1_frontal.jpg,Fracture
+patient64707/study1/view1_frontal.jpg,No finding
+patient64708/study1/view1_frontal.jpg,Fracture,Lung Opacity
+patient64709/study1/view1_frontal.jpg,No finding
+patient64710/study1/view1_frontal.jpg,No finding
+patient64711/study1/view1_frontal.jpg,No finding
+patient64712/study1/view1_frontal.jpg,No finding
+patient64713/study1/view1_frontal.jpg,No finding
+patient64714/study1/view1_frontal.jpg,No finding
+patient64715/study1/view1_frontal.jpg,No finding
+patient64716/study1/view1_frontal.jpg,No finding
+patient64717/study1/view1_frontal.jpg,No finding
+patient64718/study1/view1_frontal.jpg,No finding
+patient64719/study1/view1_frontal.jpg,No finding
+patient64720/study1/view1_frontal.jpg,No finding
+patient64721/study1/view1_frontal.jpg,No finding
+patient64722/study1/view1_frontal.jpg,No finding
+patient64723/study1/view1_frontal.jpg,No finding
+patient64724/study1/view1_frontal.jpg,Fracture
+patient64725/study1/view1_frontal.jpg,Fracture
+patient64726/study1/view1_frontal.jpg,No finding
+patient64727/study1/view1_frontal.jpg,No finding
+patient64728/study1/view1_frontal.jpg,No finding
+patient64729/study1/view1_frontal.jpg,Consolidation,Pneumonia
+patient64730/study1/view1_frontal.jpg,No finding
+patient64731/study1/view1_frontal.jpg,No finding
+patient64732/study1/view1_frontal.jpg,No finding
+patient64733/study1/view1_frontal.jpg,No finding
+patient64734/study1/view1_frontal.jpg,Atelectasis
+patient64735/study1/view1_frontal.jpg,No finding
+patient64736/study1/view1_frontal.jpg,Fracture
+patient64737/study1/view1_frontal.jpg,No finding
+patient64738/study1/view1_frontal.jpg,No finding
+patient64739/study1/view1_frontal.jpg,No finding
+patient64740/study1/view1_frontal.jpg,No finding

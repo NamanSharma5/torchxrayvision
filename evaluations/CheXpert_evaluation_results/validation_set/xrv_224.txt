@@ -1,0 +1,234 @@
+patient64541/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64542/study1/view1_frontal.jpg,Pneumothorax,Lung Lesion,Fracture
+patient64542/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Pneumonia,Cardiomegaly,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64543/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64544/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64545/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64546/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64547/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64547/study1/view2_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Pneumonia,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64547/study1/view3_lateral.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64548/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64549/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64550/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64551/study1/view1_frontal.jpg,Pneumothorax,Pneumonia,Lung Lesion,Fracture
+patient64551/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Fracture,Lung Opacity
+patient64552/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64553/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64554/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Fracture,Lung Opacity
+patient64555/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64556/study1/view1_frontal.jpg,Pneumothorax,Fracture
+patient64556/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64557/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64558/study1/view1_frontal.jpg,Pneumothorax,Fracture
+patient64558/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64559/study1/view1_frontal.jpg,Pneumothorax,Lung Lesion,Fracture
+patient64559/study1/view2_lateral.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64560/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64560/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64561/study1/view1_frontal.jpg,Atelectasis,Pneumothorax,Edema,Effusion,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64562/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64563/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64564/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64565/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64566/study1/view1_frontal.jpg,Atelectasis,Pneumothorax,Pneumonia,Lung Lesion,Fracture,Lung Opacity
+patient64566/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64567/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Pneumonia,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64567/study1/view2_lateral.jpg,Cardiomegaly,Fracture,Enlarged Cardiomediastinum
+patient64568/study1/view1_frontal.jpg,Pneumothorax,Fracture
+patient64569/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64570/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64570/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64571/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64572/study1/view1_frontal.jpg,Edema,Fracture,Enlarged Cardiomediastinum
+patient64573/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64574/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64575/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Pneumonia,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64575/study1/view2_lateral.jpg,Pneumonia,Fracture,Enlarged Cardiomediastinum
+patient64576/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64577/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64578/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Cardiomegaly,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64579/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64580/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64581/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64581/study1/view3_lateral.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64581/study1/view2_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64582/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64583/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64584/study1/view1_frontal.jpg,Pneumothorax,Lung Lesion
+patient64584/study1/view2_lateral.jpg,Atelectasis,Edema,Cardiomegaly,Fracture,Enlarged Cardiomediastinum
+patient64585/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64586/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64587/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64588/study1/view1_frontal.jpg,Pneumothorax,Edema,Lung Lesion,Fracture,Enlarged Cardiomediastinum
+patient64588/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64589/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64589/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64590/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64590/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64591/study1/view1_frontal.jpg,Atelectasis,Pneumothorax,Edema,Fracture
+patient64592/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64593/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64594/study1/view1_frontal.jpg,Pneumothorax
+patient64594/study1/view2_lateral.jpg,Edema,Pneumonia,Cardiomegaly,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64595/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64595/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64596/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64597/study1/view1_frontal.jpg,Pneumothorax,Lung Lesion,Fracture
+patient64597/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64598/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64599/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64599/study1/view2_lateral.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64600/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64600/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64601/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64602/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64603/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64604/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64605/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64606/study1/view1_frontal.jpg,Atelectasis,Pneumothorax,Edema,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64606/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64607/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64608/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64608/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64609/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64610/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64611/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64612/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64613/study1/view1_frontal.jpg,Pneumothorax,Lung Lesion,Fracture
+patient64613/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64614/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64615/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64615/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64616/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64616/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumonia,Cardiomegaly,Lung Opacity,Enlarged Cardiomediastinum
+patient64616/study1/view3_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64617/study1/view1_frontal.jpg,Atelectasis,Pneumothorax,Edema,Effusion,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64618/study1/view1_frontal.jpg,Atelectasis,Pneumothorax,Edema,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64618/study1/view2_lateral.jpg,Edema,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64619/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64620/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64621/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64622/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64623/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64624/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64625/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Pneumonia,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64625/study1/view2_lateral.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64626/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64627/study1/view1_frontal.jpg,Pneumothorax,Fracture
+patient64628/study1/view1_frontal.jpg,Atelectasis,Pneumothorax,Edema,Effusion,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64629/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64630/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64631/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64632/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64633/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64634/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64635/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64636/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64637/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64638/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64639/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64640/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64640/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64641/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64642/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64643/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64644/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64645/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64646/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64647/study1/view1_frontal.jpg,Pneumothorax,Fracture
+patient64648/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64649/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64650/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64651/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64652/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64653/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64654/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64655/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64656/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64657/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64658/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64659/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64660/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64661/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64662/study1/view1_frontal.jpg,Atelectasis,Pneumothorax,Edema,Cardiomegaly,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64663/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64664/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64665/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64666/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64667/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64668/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64669/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64670/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64671/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64672/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64673/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64674/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64675/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64676/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64676/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64677/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64678/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64679/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64680/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64681/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64682/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64683/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64684/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64685/study1/view1_frontal.jpg,Pneumothorax,Fracture
+patient64686/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64687/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64688/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64689/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64690/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64691/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64692/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64693/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64694/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64695/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64696/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64697/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64698/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64699/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64700/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64701/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64702/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64703/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64704/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64705/study1/view1_frontal.jpg,Atelectasis,Pneumothorax,Edema,Cardiomegaly,Lung Lesion,Fracture,Enlarged Cardiomediastinum
+patient64705/study1/view2_lateral.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64706/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64707/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64708/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64709/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64710/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64711/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64712/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64713/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64714/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64715/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64716/study1/view1_frontal.jpg,Edema,Cardiomegaly,Fracture
+patient64717/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64718/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64719/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64720/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64721/study1/view1_frontal.jpg,Atelectasis,Pneumothorax,Edema,Effusion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64722/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64723/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64724/study1/view1_frontal.jpg,Pneumothorax,Fracture
+patient64725/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64726/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64727/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Lung Lesion,Fracture,Lung Opacity
+patient64728/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64729/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64730/study1/view1_frontal.jpg,No finding
+patient64731/study1/view1_frontal.jpg,Pneumothorax,Fracture
+patient64732/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64733/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64734/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64735/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64736/study1/view1_frontal.jpg,Atelectasis,Consolidation,,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64737/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64738/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
+patient64739/study1/view1_frontal.jpg,Cardiomegaly,Enlarged Cardiomediastinum
+patient64740/study1/view1_frontal.jpg,Atelectasis,Consolidation,Pneumothorax,Edema,Effusion,Pneumonia,Cardiomegaly,Lung Lesion,Fracture,Lung Opacity,Enlarged Cardiomediastinum
